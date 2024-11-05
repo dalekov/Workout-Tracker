@@ -1,20 +1,20 @@
-# Workout Tracker
+# 🏋️‍♂️ Workout Tracker
 
 A simple workout tracker application that allows users to log their exercises and view detailed statistics. This application leverages the Nutritionix API to fetch exercise data and Google Sheets API to store the logged information.
 
 ## Features
 
-- Log exercises and view the duration and calories burned.
-- Integrates with Nutritionix API to retrieve exercise information.
-- Stores logged workouts in Google Sheets for easy access and tracking.
+- 📝 Log exercises and view the duration and calories burned.
+- 🔗 Integrates with Nutritionix API to retrieve exercise information.
+- 📊 Stores logged workouts in Google Sheets for easy access and tracking.
 
 ## Technologies Used
 
-- Python
-- Nutritionix API
-- Google Sheets API
-- Requests library for making API calls
-- Environment variables for configuration
+- 🐍 Python
+- 🌐 Nutritionix API
+- 🗂️ Google Sheets API
+- 📦 Requests library for making API calls
+- ⚙️ Environment variables for configuration
 
 ## Installation
 
